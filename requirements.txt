@@ -1,0 +1,6 @@
+openai
+python-dotenv
+tiktoken
+fastapi
+uvicorn
+httpx
